@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96c0303d-ac68-4390-9b5d-607326a970e4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WWjfOPaXD9GJOdK8jdD75LStwK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="recruitment" type="Python.DjangoServer" factoryName="Django server">
+      <module name="recruitment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96c0303d-ac68-4390-9b5d-607326a970e4" name="Changes" comment="" />
+      <created>1696855332573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696855332573</updated>
+      <workItem from="1696855333876" duration="954000" />
+      <workItem from="1697890893196" duration="6886000" />
+      <workItem from="1698019233986" duration="391000" />
+      <workItem from="1698239348101" duration="170000" />
+      <workItem from="1698493780476" duration="240000" />
+      <workItem from="1699061393518" duration="226000" />
+      <workItem from="1699062617153" duration="206000" />
+      <workItem from="1699180480792" duration="218000" />
+      <workItem from="1699283560852" duration="178000" />
+      <workItem from="1699371493337" duration="157000" />
+      <workItem from="1699540521254" duration="387000" />
+      <workItem from="1699801053795" duration="153000" />
+      <workItem from="1699886525052" duration="596000" />
+      <workItem from="1700234472862" duration="207000" />
+      <workItem from="1700406658567" duration="223000" />
+      <workItem from="1700490601153" duration="226000" />
+      <workItem from="1700578374231" duration="211000" />
+      <workItem from="1700649881596" duration="144000" />
+      <workItem from="1700829956528" duration="84000" />
+      <workItem from="1701522143832" duration="283000" />
+      <workItem from="1737979712710" duration="285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
